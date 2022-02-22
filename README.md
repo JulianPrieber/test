@@ -32,13 +32,19 @@
 
 ---
 
-## About us
+## About
 LittleLink Custom is a fork of [LittleLink Admin](https://github.com/latuminggi/littlelink-admin) with a set goal of making the admin panel easier to use and setup, for inexperienced and first-time user's, with the addition of many custom features themed around customization for the individual users, LittleLink pages.
 
 LittleLink Custom was made for the purpose of making LittleLink as well as LittleLink Admin easier to use and setup, by people who have never coded before nor have extensive web hosting knowledge.
 This project is set up in a way that you can just drag and drop the LittleLink Custom directory onto your web host's root directory without ever having to touch the source code or deal with pesky terminal commands.
 
 In addition to an easier setup process, this fork adds many custom features for an improved and more feature rich user experience. All UI pages feature a dark mode, which automatically applies if your operating system's or browser theme is set to dark. LittleLink Custom adds light unobtrusive CSS animations for an esthetically pleasing responsive design. Many small changes like this have been implemented that add up to a substantial feature set that sets LittleLink Custom apart from other forks.
+
+<br>
+	    
+## What does this do?	    
+LittleLink Custom provides you with a website where you can share all your links to your social media platform or important links easy to access on one site. You'll get an admin panel where you can manage users, which can create accounts.
+	    
 	    
 <br>
 	    
@@ -124,12 +130,6 @@ LittleLink Admin is in itself a fork of [LittleLink](https://github.com/sethcot
 
 <br>
 
-## Support
-
-Reach out to me via the **[profile addresses](https://github.com/ArmynC)**.
-
-<br>
-
 ## License
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
@@ -150,4 +150,14 @@ Reach out to me via the **[profile addresses](https://github.com/ArmynC)**.
 |:------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|
 |                                                      Seth Cottle                                                      |                                             Khashayar Zavosh                                             |                                             Aprillio Latuminggi                                             |
 |                                 **[LittleLink](https://github.com/sethcottle/littlelink)**                                |              **[LittleLink Admin](https://github.com/khashayarzavosh/littlelink-admin)**              |             **[LittleLink Admin (fork)](https://github.com/latuminggi/littlelink-admin)**             |
+
+<br>
+
+## Additional credit
+
+- [laravel](https://github.com/laravel/laravel)
+- [panel template](https://colorlib.com/wp/bootstrap-sidebar)
+- [button animations](https://github.com/IanLunn/Hover)
+
+
 
