@@ -1,51 +1,3 @@
-## Fork structure
-Fork of a fork of a fork of LittleLink...
-
-#### LittleLink fork-tree:
-<pre>
-LittleLink
-   │
-   └── LittleLink Admin
-         │
-         └── LittleLink Admin (fork)
-               │
-               └── LittleLink Custom
-</pre>
-
-## Special thanks 
-
-###Special thanks to:
-* **[Seth Cottle](https://github.com/sethcottle) for creating [LittleLink](https://github.com/sethcottle/littlelink) the base of all this.
-* **[Khashayar Zavosh](https://github.com/khashayarzavosh) for creating [LittleLink Admin](https://github.com/khashayarzavosh/littlelink-admin), the base framework of the admin panel and many other essentials features of this project.
-* **[Aprillio Latuminggi (latuminggi)](https://github.com/latuminggi) for creating the fork this fork is based [LittleLink Admin (fork)](https://github.com/latuminggi/littlelink-admin)  
-   
-## Credits
-
-| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC) | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)		| ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)		|
-|:------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|
-|                                                    **Armin Chanchian**                                                    |                                           **The community**                                           |                                           **The community**                                           |
-|                                                    Armin Chanchian                                                   |                                           The community                                          |                                           The community                                           |
-
-
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">
   <br>
   <a href="https://github.com/JulianPrieber/littlelink-custom"><img src="https://i.imgur.com/qNe686V.png" alt="LittleLink Custom"></a>
@@ -88,7 +40,7 @@ This project is set up in a way that you can just drag and drop the LittleLink 
 
 In addition to an easier setup process, this fork adds many custom features for an improved and more feature rich user experience. All UI pages feature a dark mode, which automatically applies if your operating system's or browser theme is set to dark. LittleLink Custom adds light unobtrusive CSS animations for an esthetically pleasing responsive design. Many small changes like this have been implemented that add up to a substantial feature set that sets LittleLink Custom apart from other forks.
 	    
-<br></br>
+<br>
 	    
 ## Features
 
@@ -122,14 +74,7 @@ In addition to an easier setup process, this fork adds many custom features for 
 <img height="450" src="https://i.imgur.com/OL0sf89.gif">
 </p>
 
-
-> "LittleLink Admin is an admin panel for littlelink that provides you a website similar to [Linktree](https://linktr.ee)."
-
-LittleLink Admin is in itself a fork of [LittleLink](https://github.com/sethcottle/littlelink) 
-> "LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee) and [many.link](https://many.link/). LittleLink was built using [Skeleton](http://getskeleton.com/), a dead simple, responsive boilerplate—we just stripped out some additional code you wouldn't need and added in branded styles for popular services."
-
-
-
+<br>
 
 ## Installation
 
@@ -137,6 +82,7 @@ LittleLink Admin is in itself a fork of [LittleLink](https://github.com/sethcot
 * **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the latest version of the config.
 * **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
 
+<br>
 
 ## Updating
 
@@ -145,16 +91,63 @@ When a **new version** is out, you have **two methods** to _update_:
 ##### 1. You have edited the config based on your preference:
 * Check the new [commits](https://github.com/ArmynC/ArminC-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
 
+<br>
 
 ## Contributing
 
 Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
 
 
+<br>
+
+## Fork structure
+Fork of a fork of a fork of LittleLink...
+<br>
+#### LittleLink fork-tree:
+<pre>
+LittleLink
+   │
+   └── LittleLink Admin
+         │
+         └── LittleLink Admin (fork)
+               │
+               └── LittleLink Custom
+</pre>
+<br>
+LittleLink Custom is a fork of LittleLink Admin.
+
+> "LittleLink Admin is an admin panel for littlelink that provides you a website similar to [Linktree](https://linktr.ee)."
+
+LittleLink Admin is in itself a fork of [LittleLink](https://github.com/sethcottle/littlelink) 
+
+> "LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee) and [many.link](https://many.link/). LittleLink was built using [Skeleton](http://getskeleton.com/), a dead simple, responsive boilerplate—we just stripped out some additional code you wouldn't need and added in branded styles for popular services."
+
+<br>
+
 ## Support
 
 Reach out to me via the **[profile addresses](https://github.com/ArmynC)**.
 
+<br>
+
 ## License
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
+
+
+<br>
+
+## Special thanks 
+
+### special thanks to:
+* [Seth Cottle](https://github.com/sethcottle) for creating [LittleLink](https://github.com/sethcottle/littlelink) the base of all this.
+* [Khashayar Zavosh](https://github.com/khashayarzavosh) for creating [LittleLink Admin](https://github.com/khashayarzavosh/littlelink-admin), the base framework of the admin panel and many other essentials features of this project.
+* [Aprillio Latuminggi (latuminggi)](https://github.com/latuminggi) for creating the fork this fork is based [LittleLink Admin (fork)](https://github.com/latuminggi/littlelink-admin)  
+   
+<h4 align="center">Thank you!</h4>
+
+| [![sethcottle](https://avatars.githubusercontent.com/u/1301949?v=4)](https://github.com/sethcottle) | ![khashayarzavosh](https://avatars.githubusercontent.com/u/60265643?v=4)		| ![latuminggi](https://avatars.githubusercontent.com/u/6211719?v=4)		|
+|:------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|
+|                                                      Seth Cottle                                                      |                                             Khashayar Zavosh                                             |                                             Aprillio Latuminggi                                             |
+|                                 **[LittleLink](https://github.com/sethcottle/littlelink)**                                |              **[LittleLink Admin](https://github.com/khashayarzavosh/littlelink-admin)**              |             **[LittleLink Admin (fork)](https://github.com/latuminggi/littlelink-admin)**             |
+
