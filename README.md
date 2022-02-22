@@ -19,7 +19,7 @@
       
 <p align="center">
   <a href="#About">About</a> •
-  <a href="#Function">Function</a> •
+  <a href="#What does this do?">What does this do?</a> •
   <a href="#Demo">Demo</a> •
   <a href="#Features">Features</a> •
   <a href="#Installation">Installation</a> •
