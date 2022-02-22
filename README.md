@@ -18,16 +18,17 @@
 </p>
       
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#updating">Updating</a> •
-  <a href="#features">Features</a> •
-  <a href="#binds">Binds</a> •
-  <a href="#wiki">Wiki</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
+  <a href="#About">About</a> •
+  <a href="#What does this do?	">Installation</a> •
+  <a href="#Demo">Updating</a> •
+  <a href="#Features">Features</a> •
+  <a href="#Installation">Binds</a> •
+  <a href="#Updating">Wiki</a> •
+  <a href="#Contributing">Contributing</a> •
+  <a href="#Fork structure">Credits</a> •
+  <a href="#License">Support</a> •
+  <a href="#Special thanks">License</a>
+  <a href="#Additional credit">License</a>
 </p>
 
 ---
@@ -45,6 +46,11 @@ In addition to an easier setup process, this fork adds many custom features for 
 ## What does this do?	    
 LittleLink Custom provides you with a website where you can share all your links to your social media platform or important links easy to access on one site. You'll get an admin panel where you can manage users, which can create accounts.
 	    
+<br>
+	    
+## Demo	    
+
+
 	    
 <br>
 	    
@@ -158,6 +164,6 @@ LittleLink Admin is in itself a fork of [LittleLink](https://github.com/sethcot
 - [laravel](https://github.com/laravel/laravel)
 - [panel template](https://colorlib.com/wp/bootstrap-sidebar)
 - [button animations](https://github.com/IanLunn/Hover)
-
+- [general animations](https://github.com/animate-css/animate.css)
 
 
