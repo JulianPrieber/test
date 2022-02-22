@@ -19,15 +19,15 @@
       
 <p align="center">
   <a href="#About">About</a> •
-  <a href="#Function">Installation</a> •
-  <a href="#Demo">Updating</a> •
+  <a href="#Function">Function</a> •
+  <a href="#Demo">Demo</a> •
   <a href="#Features">Features</a> •
-  <a href="#Installation">Binds</a> •
-  <a href="#Updating">Wiki</a> •
-  <a href="#Fork structure">Credits</a> •
-  <a href="#License">Support</a> •
-  <a href="#Special thanks">License</a>
-  <a href="#Additional credit">License</a>
+  <a href="#Installation">Installation</a> •
+  <a href="#Updating">Updating</a> •
+  <a href="#Fork structure">Fork structure</a> •
+  <a href="#License">License</a> •
+  <a href="#Special thanks">Special thanks</a>
+  <a href="#Additional credit">Additional credit</a>
 </p>
 
 ---
