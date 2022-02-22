@@ -1,51 +1,46 @@
-## Features
+## Fork structure
+Fork of a fork of a fork of LittleLink...
 
-|                            | LittleLink Custom  | LittleLink Admin*   |LittleLink        |
-| -------------------------- | :----------------: | :-------------:     | :-------------:  |
-| Creating a link page with more than 20 buttons  |         ✔️         |        ✔️        |        ✔️        |
-| Code free setup                                 |         ✔️         |        ✔️        |        ❌        |
-| Raising important links on the page             |         ✔️         |        ✔️        |        ❌        |
-| Ordering links                                  |         ✔️         |        ✔️        |        ❌        |
-| Counting clicks                                 |         ✔️         |        ✔️        |        ❌        |
-| Managing users and pages and links              |         ✔️         |        ✔️        |        ❌        |
-| Button hover animations                         |         ✔️         |        ❌        |        ❌        |
-| custom link option                              |         ✔️         |        ❌        |        ❌        |
-| Social Share Preview for individual users       |         ✔️         |        ❌        |        ❌        |
-| No database reqired                             |         ✔️         |        ❌        |        ❌        |
-| Setup without command line                      |         ✔️         |        ❌        |        ❌        |
-*[littlelink-admin](https://github.com/latuminggi) by [latuminggi](https://github.com/latuminggi/littlelink-admin)
+#### LittleLink fork-tree:
+<pre>
+LittleLink
+   │
+   └── LittleLink Admin
+         │
+         └── LittleLink Admin (fork)
+               │
+               └── LittleLink Custom
+</pre>
 
+## Special thanks 
 
+###Special thanks to:
+* **[Seth Cottle](https://github.com/sethcottle) for creating [LittleLink](https://github.com/sethcottle/littlelink) the base of all this.
+* **[Khashayar Zavosh](https://github.com/khashayarzavosh) for creating [LittleLink Admin](https://github.com/khashayarzavosh/littlelink-admin), the base framework of the admin panel and many other essentials features of this project.
+* **[Aprillio Latuminggi (latuminggi)](https://github.com/latuminggi) for creating the fork this fork is based [LittleLink Admin (fork)](https://github.com/latuminggi/littlelink-admin)  
+   
+## Credits
 
-
-# LittleLink Custom - The "just add water" approach to LittleLink
-
-<img src="https://i.imgur.com/qNe686V.png">
-
-
-
-LittleLink Custom is a fork of LittleLink Admin with a set goal of making the admin panel easier to use and setup, for inexperienced and first-time user's, with the addition of many custom features themed around customization for the individual users, LittleLink pages.
-
-> "LittleLink Admin is an admin panel for littlelink that provides you a website similar to [Linktree](https://linktr.ee)."
-
-LittleLink Admin is in itself a fork of [LittleLink](https://github.com/sethcottle/littlelink) 
-> "LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee) and [many.link](https://many.link/). LittleLink was built using [Skeleton](http://getskeleton.com/), a dead simple, responsive boilerplate—we just stripped out some additional code you wouldn't need and added in branded styles for popular services."
-
-LittleLink Custom was made for the purpose of making LittleLink as well as LittleLink Admin easier to use and setup, by people who have never coded before nor have extensive web hosting knowledge.
-This project is set up in a way that you can just drag and drop the LittleLink Custom directory onto your web host's root directory without ever having to touch the source code or deal with pesky terminal commands.
+| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC) | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)		| ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)		|
+|:------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|
+|                                                    **Armin Chanchian**                                                    |                                           **The community**                                           |                                           **The community**                                           |
+|                                                    Armin Chanchian                                                   |                                           The community                                          |                                           The community                                           |
 
 
-<p align="center">
-<img height="650" src="https://i.imgur.com/vHyAO4V.png">
-</p>
-
-<p align="center">
-<img height="450" src="https://i.imgur.com/OL0sf89.gif">
-</p>
 
 
-# Special thanks 
-#### - Fork of a fork of a fork of LittleLink...
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
 
 
 
@@ -53,24 +48,21 @@ This project is set up in a way that you can just drag and drop the LittleLink 
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec.png" alt="ArminC AutoExec"></a>
+  <a href="https://github.com/JulianPrieber/littlelink-custom"><img src="https://i.imgur.com/qNe686V.png" alt="LittleLink Custom"></a>
 </h1>
 
-<h4 align="center">A high-quality CS:GO config built for gamers.</h4>
+<h4 align="center">The "just add water" approach to LittleLink</h4>
 
 <p align="center">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
+    <a href="https://github.com/JulianPrieber/littlelink-custom/commits/master">
     <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
+    <a href="https://github.com/JulianPrieber/littlelink-custom/issues">
     <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
+    <a href="https://github.com/JulianPrieber/littlelink-custom/pulls">
     <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
-    <a href="https://twitter.com/intent/tweet?text=Try this CS:GO AutoExec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
-    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
-         alt="GitHub tweet">
 </p>
       
 <p align="center">
@@ -88,49 +80,63 @@ This project is set up in a way that you can just drag and drop the LittleLink 
 
 ---
 
-## About
+## About us
+LittleLink Custom is a fork of [LittleLink Admin](https://github.com/latuminggi/littlelink-admin) with a set goal of making the admin panel easier to use and setup, for inexperienced and first-time user's, with the addition of many custom features themed around customization for the individual users, LittleLink pages.
 
-<table>
-<tr>
-<td>
-  
-**ArminC AutoExec** is a **high-quality** _config_ for _Counter-Strike: Global Offensive_ that aims to **improve the gameplay** and its **template is perfect**, enabling you to **customize** the game **settings** to your liking.
+LittleLink Custom was made for the purpose of making LittleLink as well as LittleLink Admin easier to use and setup, by people who have never coded before nor have extensive web hosting knowledge.
+This project is set up in a way that you can just drag and drop the LittleLink Custom directory onto your web host's root directory without ever having to touch the source code or deal with pesky terminal commands.
 
-It comes **filled** with **optimizations** that make use of the **all network capacity** and **game advantages**, overall **improving the gameplay** for a wide variety of _computers and players_.
+In addition to an easier setup process, this fork adds many custom features for an improved and more feature rich user experience. All UI pages feature a dark mode, which automatically applies if your operating system's or browser theme is set to dark. LittleLink Custom adds light unobtrusive CSS animations for an esthetically pleasing responsive design. Many small changes like this have been implemented that add up to a substantial feature set that sets LittleLink Custom apart from other forks.
+	    
+<br></br>
+	    
+## Features
 
-**Each and one** of the **commands** are **finely-tuned**, _enabling all game's capacity_ (compared to default settings), **helping you** through the matchmaking.
+|                                                 | LittleLink Custom  | LittleLink Admin¹   |LittleLink      |
+| ------------------------------------------------| :----------------: | :---------------: | :--------------: |
+| Creating a link page with more than 20 buttons  |         ✔️         |        ✔️        |        ✔️        |
+| Code free setup                                 |         ✔️         |        ✔️        |        ❌        |
+| Raising important links on the page             |         ✔️         |        ✔️        |        ❌        |
+| Ordering links                                  |         ✔️         |        ✔️        |        ❌        |
+| Counting clicks                                 |         ✔️         |        ✔️        |        ❌        |
+| Managing users and pages and links              |         ✔️         |        ✔️        |        ❌        |
+| Automatic dark mode detection                   |         ✔️         |        ✖️²       |        ❌        |
+| Button hover animations                         |         ✔️         |        ❌        |        ❌        |
+| custom link option                              |         ✔️         |        ❌        |        ❌        |
+| Social Share Preview for individual users       |         ✔️         |        ❌        |        ❌        |
+| No database reqired                             |         ✔️         |        ❌        |        ❌        |
+| Setup without command line                      |         ✔️         |        ❌        |        ❌        |
 
-![ArminC AutoExec Code](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_code.png)
-<p align="right">
-<sub>(Preview)</sub>
+¹[littlelink-admin](https://github.com/latuminggi) by [latuminggi](https://github.com/latuminggi/littlelink-admin) | 
+²Not fully implemented on most pages
+
+<br></br>
+<h3 align="center">Dark mode that automaticly detects and applys the prefered theme setting in your browser or operating system</h3>
+<p align="center">
+<img height="650" src="https://i.imgur.com/vHyAO4V.png">
+</p>
+	    
+<br></br>
+<h3 align="center">Light weight CSS animations</h3>
+<p align="center">
+<img height="450" src="https://i.imgur.com/OL0sf89.gif">
 </p>
 
-</td>
-</tr>
-</table>
+
+> "LittleLink Admin is an admin panel for littlelink that provides you a website similar to [Linktree](https://linktr.ee)."
+
+LittleLink Admin is in itself a fork of [LittleLink](https://github.com/sethcottle/littlelink) 
+> "LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee) and [many.link](https://many.link/). LittleLink was built using [Skeleton](http://getskeleton.com/), a dead simple, responsive boilerplate—we just stripped out some additional code you wouldn't need and added in branded styles for popular services."
+
+
+
 
 ## Installation
 
 ##### Downloading and installing steps:
 * **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the latest version of the config.
 * **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
-  * See below **[how to find your SteamID3](https://github.com/ArmynC/ArminC-AutoExec#how-to-find-your-steamid3)**.
-* Place the **cfg** folder (from .zip) inside the **local** folder (from the path).
-  * Replace all files if it asks.
-    * To use the **Video Settings**, rename `video_optional.txt` to `video.txt` and set it to `Read-only`.
-* **[OPTIONAL]** Set the **[launch options](https://github.com/ArmynC/ArminC-AutoExec/wiki/Launch-Options)**.
-  * **Right-click** on the **game title** under the _Library_ in Steam and select **Properties**.
-  * Under the **General tab** click the **Set launch options...** button.
-  * **Enter** the **launch options** you wish to apply (_be sure to separate each code with space_) and click **OK**.
-  * **Close** the _Properties_ window and **launch the game**
-* **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
 
-##### How to find your SteamID3:
-
-* **Go** to [SteamID](https://steamid.io/).
-* In the _input_ box, **enter** your **profile** name/id and press ***lookup**.
-* All the SteamIDs versions will be shown. You need **SteamID3**.
-  * The format: `[X:Y:ZZZZZZZZ]` - where your *install path id* is the whole `Z` code.
 
 ## Updating
 
@@ -139,53 +145,11 @@ When a **new version** is out, you have **two methods** to _update_:
 ##### 1. You have edited the config based on your preference:
 * Check the new [commits](https://github.com/ArmynC/ArminC-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
 
-##### 2. You haven't edited the config (or at least not so much):
-* **Delete everything** (or **replace the files** when it asks).
-* **Redo** the [installation](https://github.com/ArmynC/ArminC-AutoExec#installation) steps.
-* _After setup_, **change your preference** settings back (if it is the case).
-
-This _config_ is **updated** (at a random time), so make sure you **come back** here to **check** for **updates**.
-
-## Features
-
-|                            | 🔰 ArminC AutoExec  | ◾ Other Configs |
-| -------------------------- | :----------------: | :-------------: |
-| Optimized values           |         ✔️         |        ❌        |
-| Useful scripts             |         ✔️         |        ❌        |
-| Documented commands        |         ✔️         |        ❌        |
-| Enabled in-game advantages |         ✔️         |        ❌        |
-| No misconcepted commands   |         ✔️         |        ❌        |
-| Professional info sources  |         ✔️         |        ❌        |
-| Clean sheet/template       |         ✔️         |        ❌        |
-| Easy to customize          |         ✔️         |        ❌        |
-| Categorized by functions   |         ✔️         |        ❌        |
-| New commands/values        |         ✔️         |        ❌        |
-| No old command leftovers   |         ✔️         |        ❌        |
-
-## Symbols
-
-      *: Multiple commands under a category
-     >>: Official description
-	<->: Analysis
-    <i>: Informal
-    <!>: Important
-
-## Binds
-![ArminC AutoExec Binds](https://raw.githubusercontent.com/ArmynC/ArminC-Keyboard-Layout/master/image/arminc_autoexec_binds.png)
-
-## Wiki
-
-Do you **need some help**? Check the _articles_ from the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
 
 ## Contributing
 
 Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
 
-## Credits
-
-| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC) | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)		|
-|:------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|
-|                                                    **Armin Chanchian**                                                    |                                           **The community**                                           |
 
 ## Support
 
