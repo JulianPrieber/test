@@ -26,7 +26,7 @@
   <a href="#Updating">Updating</a> •
   <a href="#Fork structure">Fork structure</a> •
   <a href="#License">License</a> •
-  <a href="#Special thanks">Special thanks</a>
+  <a href="#Special thanks">Special thanks</a> •
   <a href="#Additional credit">Additional credit</a>
 </p>
 
@@ -101,12 +101,6 @@ When a **new version** is out, you have **two methods** to _update_:
 
 ##### 1. You have edited the config based on your preference:
 * Check the new [commits](https://github.com/ArmynC/ArminC-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
-
-<br>
-
-## Contributing
-
-Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
 
 
 <br>
