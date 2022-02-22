@@ -19,15 +19,15 @@
       
 <p align="center">
   <a href="#About">About</a> •
-  <a href="#What does this do?">What does this do?</a> •
+  <a href="#Function">Function</a> •
   <a href="#Demo">Demo</a> •
   <a href="#Features">Features</a> •
   <a href="#Installation">Installation</a> •
   <a href="#Updating">Updating</a> •
-  <a href="#Fork structure">Fork structure</a> •
+  <a href="#Fork-Structure">Fork structure</a> •
   <a href="#License">License</a> •
-  <a href="#Special thanks">Special thanks</a> •
-  <a href="#Additional credit">Additional credit</a>
+  <a href="#Special-thanks">Special thanks</a> •
+  <a href="#Additional-credit">Additional credit</a>
 </p>
 
 ---
@@ -42,7 +42,7 @@ In addition to an easier setup process, this fork adds many custom features for 
 
 <br>
 	    
-## What does this do?	    
+## Function    
 LittleLink Custom provides you with a website where you can share all your links to your social media platform or important links easy to access on one site. You'll get an admin panel where you can manage users, which can create accounts.
 	    
 <br>
@@ -105,7 +105,7 @@ When a **new version** is out, you have **two methods** to _update_:
 
 <br>
 
-## Fork structure
+## Fork-Structure
 Fork of a fork of a fork of LittleLink...
 <br>
 #### LittleLink fork-tree:
@@ -136,7 +136,7 @@ LittleLink Admin is in itself a fork of [LittleLink](https://github.com/sethcot
 
 <br>
 
-## Special thanks 
+## Special-thanks 
 
 ### special thanks to:
 * [Seth Cottle](https://github.com/sethcottle) for creating [LittleLink](https://github.com/sethcottle/littlelink) the base of all this.
@@ -152,7 +152,7 @@ LittleLink Admin is in itself a fork of [LittleLink](https://github.com/sethcot
 
 <br>
 
-## Additional credit
+## Additional-credit
 
 - [laravel](https://github.com/laravel/laravel)
 - [panel template](https://colorlib.com/wp/bootstrap-sidebar)
