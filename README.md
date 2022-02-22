@@ -49,12 +49,15 @@ LittleLink Custom provides you with a website where you can share all your links
 	    
 ## Demo	    
 
-
-	    
+<h3 align="center">Try a live demonstration of the LittleLink page with button animations and selectable dark mode</h3>
+<p align="center">
+  <a href="https://github.com/JulianPrieber/littlelink-custom"><img src="https://i.imgur.com/EJNaMNW.png" alt="Live Demo" width="350" ></a>
+</p>
+<br>	    
 <br>
 	    
 ## Features
-
+	
 |                                                 | LittleLink Custom  | LittleLink Admin¹   |LittleLink      |
 | ------------------------------------------------| :----------------: | :---------------: | :--------------: |
 | Creating a link page with more than 20 buttons  |         ✔️         |        ✔️        |        ✔️        |
@@ -69,7 +72,7 @@ LittleLink Custom provides you with a website where you can share all your links
 | Social Share Preview for individual users       |         ✔️         |        ❌        |        ❌        |
 | No database reqired                             |         ✔️         |        ❌        |        ❌        |
 | Setup without command line                      |         ✔️         |        ❌        |        ❌        |
-
+		    
 ¹[littlelink-admin](https://github.com/latuminggi) by [latuminggi](https://github.com/latuminggi/littlelink-admin) | 
 ²Not fully implemented on most pages
 
