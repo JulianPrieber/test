@@ -39,7 +39,7 @@ In addition to an easier setup process, this fork adds many custom features for 
 <br>
 	    
 ## Function    
-LittleLink Custom provides you with a website similar to LinkTree. Many social media platforms only allow you to add one link, with this you can simply link to your LittleLink Custom page and have all the links you want displayed on one site. 
+LittleLink Custom provides you with a website similar to [Linktree](https://linktr.ee). Many social media platforms only allow you to add one link, with this you can simply link to your LittleLink Custom page and have all the links you want displayed on one site. 
 You can share all your links to your social media platform or important links to easy accessible and hosted on your own web-server or web-hosting provider. 
 On this website, other users can register and create their own links, you can access other user via the Admin Panel.
 	    
@@ -75,7 +75,7 @@ On this website, other users can register and create their own links, you can ac
 ²Not fully implemented on most pages
 
 <br></br>
-<h3 align="center">Dark mode that automaticly detects and applys the prefered theme setting in your browser or operating system</h3>
+<h3 align="center">All LittleLink Custom pages automatically apply the Dark Mode Theme if your preferred theme setting in your browser or operating system is set to dark.</h3>
 <p align="center">
 <img height="650" src="https://i.imgur.com/vHyAO4V.png">
 </p>
@@ -91,9 +91,11 @@ On this website, other users can register and create their own links, you can ac
 ## Installation
 
 ### Downloading and installing steps:
-* **[Download](https://github.com/)** the latest release of LittleLink Custom and simply put the folder 'littlelink-custom' in the root directory of your website.
+* **[Download](https://github.com/)** the latest release of LittleLink Custom and simply place the folder 'littlelink-custom' in the root directory of your website.
 
 ### That's it! No coding no command line setup just plug and play.
+
+<br>	
 
 #### Now access your install of LittleLink Custom with 'your-domain-name.com/littlelink-custom'.
 * At first, you will be greeted with a 'MissingAppKeyException'.
