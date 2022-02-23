@@ -6,15 +6,7 @@
 <h4 align="center">The "plug and play" approach to LittleLink</h4>
 
 <p align="center">
-    <a href="https://github.com/JulianPrieber/littlelink-custom/commits/master">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub last commit">
-    <a href="https://github.com/JulianPrieber/littlelink-custom/issues">
-    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub issues">
-    <a href="https://github.com/JulianPrieber/littlelink-custom/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub pull requests">
+
 </p>
       
 <p align="center">
@@ -93,19 +85,42 @@ LittleLink Custom provides you with a website where you can share all your links
 
 ## Installation
 
-##### Downloading and installing steps:
-* **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the latest version of the config.
-* **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
+### Downloading and installing steps:
+* **[Download](https://github.com/)** the latest release of LittleLink Custom and simply put the folder 'littlelink-custom' in the root directory of your website.
+
+### That's it! No coding no command line setup just plug and play.
+
+#### Now access your install of LittleLink Custom with 'your-domain-name.com/littlelink-custom'.
+* At first, you will be greeted with a 'MissingAppKeyException'.
+* This is totally normal on first setups, simply click on the 'Generate app key' button and then 'Refresh now' and you're done.
+
+#### You can now log in to the Admin Panel with the credentials:
+-   **email:** `admin@admin.com`
+-   **password:** `12345678`
+
+
+Optional configuration:
+Optionally, you can change the app name in your ".env" file in the root directory of your LittleLink Custom installation. At the moment this is set to
+APP_NAME="LittleLink Custom" you can change "LittleLink Custom" to what ever you like. This setting defines the page title and welcome message.
+
+Additionally, the littlelink-custom directory can be renamed to anything you see fit, further customizing your personal LittleLink Custom install.
 
 <br>
 
 ## Updating
 
-When a **new version** is out, you have **two methods** to _update_:
+When a **new version** is release, you will get an update notification on your Admin Panel.
 
-##### 1. You have edited the config based on your preference:
-* Check the new [commits](https://github.com/ArmynC/ArminC-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
+### Disclaimer: Always make a backup  before updating in case something breaks!
 
+To update, simply download the 'update' file from the release tab on GitHub. Do not use the regular release for the update, as it contains files that will overwrite important files that store your links and user information, effectively resetting your installation.
+
+The downloaded archive contains a 'README' which tells you exactly how to update.
+
+In most cases, you will just have to move the contents of the update file into your LittleLink Custom directory. It is essential to overwrite existing files for the updates to apply.
+
+### Exceptions:
+If the update contains new features like new buttons, you would have to use the command line to implement these new features. This step will always be optional. Instructions on how to do this will always be in the 'README' file.
 
 <br>
 
