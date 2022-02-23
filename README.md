@@ -67,7 +67,7 @@ On this website, other users can register and create their own links, you can ac
 | Button hover animations                         |         ✔️         |        ❌        |        ❌        |
 | custom link option                              |         ✔️         |        ❌        |        ❌        |
 | Social Share Preview for individual users       |         ✔️         |        ❌        |        ❌        |
-| No database reqired                             |         ✔️         |        ❌        |        ❌        |
+| No database required                            |         ✔️         |        ❌        |        ❌        |
 | Update notice if new version is available       |         ✔️         |        ❌        |        ❌        |
 | Setup without command line                      |         ✔️         |        ❌        |        ❌        |
 		    
@@ -81,7 +81,7 @@ On this website, other users can register and create their own links, you can ac
 </p>
 	    
 <br></br>
-<h3 align="center">Light weight CSS animations</h3>
+<h3 align="center">Lightweight CSS animations</h3>
 <p align="center">
 <img height="450" src="https://i.imgur.com/OL0sf89.gif">
 </p>
