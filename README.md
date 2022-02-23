@@ -71,6 +71,7 @@ LittleLink Custom provides you with a website where you can share all your links
 | custom link option                              |         ✔️         |        ❌        |        ❌        |
 | Social Share Preview for individual users       |         ✔️         |        ❌        |        ❌        |
 | No database reqired                             |         ✔️         |        ❌        |        ❌        |
+| Update notice if new version is available       |         ✔️         |        ❌        |        ❌        |
 | Setup without command line                      |         ✔️         |        ❌        |        ❌        |
 		    
 ¹[littlelink-admin](https://github.com/latuminggi) by [latuminggi](https://github.com/latuminggi/littlelink-admin) | 
