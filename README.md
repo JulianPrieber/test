@@ -22,6 +22,10 @@
   <a href="#Additional-credit">Additional credit</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/JulianPrieber/littlelink-custom"><img src="https://i.imgur.com/EJNaMNW.png" alt="Live Demo" width="250" ></a>
+</p>
+
 ---
 
 ## About
@@ -35,18 +39,19 @@ In addition to an easier setup process, this fork adds many custom features for 
 <br>
 	    
 ## Function    
-LittleLink Custom provides you with a website where you can share all your links to your social media platform or important links easy to access on one site. You'll get an admin panel where you can manage users, which can create accounts.
+LittleLink Custom provides you with a website similar to LinkTree. Many social media platforms only allow you to add one link, with this you can simply link to your LittleLink Custom page and have all the links you want displayed on one site. 
+You can share all your links to your social media platform or important links to easy accessible and hosted on your own web-server or web-hosting provider. 
+On this website, other users can register and create their own links, you can access other user via the Admin Panel.
 	    
 <br>
 	    
 ## Demo	    
 
 <h3 align="center">Try a live demonstration of the LittleLink page with button animations and selectable dark mode</h3>
+<br>	    
 <p align="center">
   <a href="https://github.com/JulianPrieber/littlelink-custom"><img src="https://i.imgur.com/EJNaMNW.png" alt="Live Demo" width="350" ></a>
 </p>
-<br>	    
-<br>
 	    
 ## Features
 	
@@ -150,7 +155,7 @@ LittleLink Admin is in itself a fork of [LittleLink](https://github.com/sethcot
 
 ## License
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://raw.githubusercontent.com/JulianPrieber/littlelink-custom/main/LICENSE?token=GHSAT0AAAAAABRPYRQAPFRUGQA4A2OMFBUQYQWHZCQ)
 
 
 <br>
