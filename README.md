@@ -3,7 +3,7 @@
   <a href="https://github.com/JulianPrieber/littlelink-custom"><img src="https://i.imgur.com/qNe686V.png" alt="LittleLink Custom"></a>
 </h1>
 
-<h4 align="center">The "just add water" approach to LittleLink</h4>
+<h4 align="center">The "plug and play" approach to LittleLink</h4>
 
 <p align="center">
     <a href="https://github.com/JulianPrieber/littlelink-custom/commits/master">
