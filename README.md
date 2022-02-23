@@ -99,7 +99,7 @@ LittleLink Custom provides you with a website where you can share all your links
 -   **password:** `12345678`
 
 
-Optional configuration:
+### Optional configuration:
 Optionally, you can change the app name in your ".env" file in the root directory of your LittleLink Custom installation. At the moment this is set to
 APP_NAME="LittleLink Custom" you can change "LittleLink Custom" to what ever you like. This setting defines the page title and welcome message.
 
