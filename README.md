@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JulianPrieber/littlelink-custom"><img src="https://i.imgur.com/EJNaMNW.png" alt="Live Demo" width="250" ></a>
+  <a href="https://julianprieber.github.io/littlelink-custom-demo/"><img src="https://i.imgur.com/EJNaMNW.png" alt="Live Demo" width="250" ></a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ On this website, other users can register and create their own links, you can ac
 <h3 align="center">Try a live demonstration of the LittleLink page with button animations and selectable dark mode</h3>
 <br>	    
 <p align="center">
-  <a href="https://github.com/JulianPrieber/littlelink-custom"><img src="https://i.imgur.com/EJNaMNW.png" alt="Live Demo" width="350" ></a>
+  <a href="https://julianprieber.github.io/littlelink-custom-demo/"><img src="https://i.imgur.com/EJNaMNW.png" alt="Live Demo" width="350" ></a>
 </p>
 	    
 ## Features
@@ -91,7 +91,7 @@ On this website, other users can register and create their own links, you can ac
 ## Installation
 
 ### Downloading and installing steps:
-* **[Download](https://github.com/)** the latest release of LittleLink Custom and simply place the folder 'littlelink-custom' in the root directory of your website.
+* **[Download](https://github.com/JulianPrieber/littlelink-custom/releases)** the latest release of LittleLink Custom and simply place the folder 'littlelink-custom' in the root directory of your website.
 
 ### That's it! No coding no command line setup just plug and play.
 
@@ -116,11 +116,11 @@ Additionally, the littlelink-custom directory can be renamed to anything you see
 
 ## Updating
 
-When a **new version** is release, you will get an update notification on your Admin Panel.
+When a **new version** is released, you will get an update notification on your Admin Panel.
 
 ### Disclaimer: Always make a backup  before updating in case something breaks!
 
-To update, simply download the 'update' file from the release tab on GitHub. Do not use the regular release for the update, as it contains files that will overwrite important files that store your links and user information, effectively resetting your installation.
+To update, simply download the 'update' file from the [release tab on GitHub](https://github.com/JulianPrieber/littlelink-custom/releases). Do not use the regular release for the update, as it contains files that will overwrite important files that store your links and user information, effectively resetting your installation.
 
 The downloaded archive contains a 'README' which tells you exactly how to update.
 
