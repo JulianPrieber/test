@@ -16,7 +16,7 @@
   <a href="#Features">Features</a> •
   <a href="#Installation">Installation</a> •
   <a href="#Updating">Updating</a> •
-  <a href="#Discord">Updating</a> •
+  <a href="#Discord">Discord</a> •
   <a href="#Fork-Structure">Fork structure</a> •
   <a href="#License">License</a> •
   <a href="#Special-thanks">Special thanks</a> •
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.littlelink-custom.com"><img src="https://i.imgur.com/BsKFWqk.png" alt="Join the Discord" width="280" ></a>
+  <a href="#Discord"><img src="https://i.imgur.com/BsKFWqk.png" alt="Join the Discord" width="280" ></a>
 </p>
 
 ---
