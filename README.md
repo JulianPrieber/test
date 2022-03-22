@@ -26,6 +26,8 @@
   <a href="https://julianprieber.github.io/littlelink-custom-demo/"><img src="https://i.imgur.com/EJNaMNW.png" alt="Live Demo" width="250" ></a>
 </p>
 
+![Discord Banner 3](https://discordapp.com/api/guilds/955765706111193118/widget.png?style=banner3)
+
 ---
 
 ## About
