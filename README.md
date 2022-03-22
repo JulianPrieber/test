@@ -147,9 +147,6 @@ In most cases, you will just have to move the contents of the update file into y
 
 <br>
 
-### Exceptions:
-If the update contains new features like new buttons, you would have to use the command line to implement these new features. This step will always be optional. Instructions on how to do this will always be in the 'README' file.
-
 <br>
 
 ## Fork-Structure
