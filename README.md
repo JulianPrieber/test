@@ -142,7 +142,7 @@ In most cases, you will just have to move the contents of the update file into y
 <br>
 
 <p align="center">
-  <a href="https://discord.littlelink-custom.com"><img src="https://i.imgur.com/92ceyuH.png" alt="Join the Discord" width="600" ></a>
+  <a href="https://discord.littlelink-custom.com" target="_blank"><img src="https://i.imgur.com/92ceyuH.png" alt="Join the Discord" width="600" ></a>
 </p>
 
 <br>
