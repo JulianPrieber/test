@@ -19,3 +19,6 @@ I'm Timothy Stewart [(Techno Tim)](https://technotim.live), a full stack softwar
 [![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=julianprieber&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/timothystewart6)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=julianprieber&theme=dark&count_private=true&theme=radical)](https://github.com/timothystewart6)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=julianprieber&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianprieber&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
