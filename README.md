@@ -3,7 +3,12 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/JulianPrieber?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/timothystewart6)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Djulianprieber%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/julianprieber)
 
+<br><br>
 
+[![GitHub Stars](https://img.shields.io/github/stars/julianprieber?logo=github&style=flat&logo=appveyor)](https://github.com/littlelink-custom)
+[![Discord Invite](https://img.shields.io/discord/955765706111193118?color=4A55CC&label=Discord&logo=discord&style=flat&logo=appveyor)](https://discord.littlelink-custom.com)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/JulianPrieber?color=BF4B8A&logo=githubsponsors&style=flat&logo=appveyor=Sponsor%20on%20Github)](https://github.com/sponsors/timothystewart6)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Djulianprieber%26type%3Dpatrons&style=flat&logo=appveyor)](https://patreon.com/julianprieber)
 
 
 
