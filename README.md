@@ -1,3 +1,18 @@
+[![GitHub Stars](https://img.shields.io/github/stars/julianprieber?logo=github&style=for-the-badge)](https://github.com/littlelink-custom)
+[![Discord Invite](https://img.shields.io/discord/955765706111193118?color=4A55CC&label=Discord&logo=discord&style=for-the-badge)](https://discord.littlelink-custom.com)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/JulianPrieber?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/timothystewart6)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Djulianprieber%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/julianprieber)
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
 
 ![Hero image](https://raw.githubusercontent.com/timothystewart6/images/master/techno-timgithub-profile.jpg)
 
