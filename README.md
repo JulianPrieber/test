@@ -40,7 +40,7 @@ More substantial additions are features that require a moderate number of lines 
 
 <br>
 
-## Major additions ★★★
+# Major additions ★★★
 
 #### Major additions that should be implemented.
 Major additions are features that require numerous lines of coded, a new page or extensive time to implement.
