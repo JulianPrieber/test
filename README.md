@@ -2,7 +2,7 @@
 ### Here you can find a list of features that might come next or already have been implemented to LittleLink Custom.
 
 #### Table of contents:
-- [Minor additions]()
+- [Minor additions](#Minor%20additions%20★☆☆)
 - [More substantial additions]()
 - [Major additions]()
 
