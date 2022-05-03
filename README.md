@@ -2,13 +2,14 @@
 ### Here you can find a list of features that might come next or already have been implemented to LittleLink Custom.
 
 #### Table of contents:
-- [Minor additions](#Minor-additions-★☆☆)
-- [More substantial additions]()
-- [Major additions](#Major-additions-★★★)
+- [Minor additions](#1)
+- [More substantial additions](#2)
+- [Major additions](#3)
 
 <br>
 
-# Minor additions ★☆☆
+<a name="1"></a>
+## Minor additions ★☆☆
 
 #### Any minor addition that should be implemented.
 Minor additions are features that can mostly be implemented by editing already existing code.
@@ -25,6 +26,7 @@ Minor additions are features that can mostly be implemented by editing already e
 
 <br>
 
+<a name="2"></a>
 ## More substantial additions ★★☆
 
 #### More substantial addition that should be implemented.
@@ -40,7 +42,8 @@ More substantial additions are features that require a moderate number of lines 
 
 <br>
 
-# Major additions ★★★
+<a name="3"></a>
+## Major additions ★★★
 
 #### Major additions that should be implemented.
 Major additions are features that require numerous lines of coded, a new page or extensive time to implement.
@@ -50,6 +53,7 @@ Major additions are features that require numerous lines of coded, a new page or
 - [ ] Button editor
 
 <br>
+
 
 
 
