@@ -4,7 +4,7 @@
 #### Table of contents:
 - [Minor additions](#Minor-additions-★☆☆)
 - [More substantial additions]()
-- [Major additions](Major-additions-★★★)
+- [Major additions](#Major-additions-★★★)
 
 <br>
 
