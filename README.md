@@ -2,13 +2,13 @@
 ### Here you can find a list of features that might come next or already have been implemented to LittleLink Custom.
 
 #### Table of contents:
-- [Minor additions](#minor-additions-★☆☆)
+- [Minor additions](#Minor-additions-★☆☆)
 - [More substantial additions]()
-- [Major additions]()
+- [Major additions](Major-additions-★★★)
 
 <br>
 
-## Minor additions ★☆☆
+# Minor additions ★☆☆
 
 #### Any minor addition that should be implemented.
 Minor additions are features that can mostly be implemented by editing already existing code.
